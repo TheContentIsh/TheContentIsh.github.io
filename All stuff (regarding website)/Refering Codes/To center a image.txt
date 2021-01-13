@@ -1,0 +1,6 @@
+To center the img 
+<center>
+<img src="paris.jpg" alt="Paris">
+</center>
+
+<img src="tci.png" alt="TCI">

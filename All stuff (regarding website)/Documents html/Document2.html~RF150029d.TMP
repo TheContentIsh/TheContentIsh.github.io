@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Content Ish</title>
+</head>
+<body>
+
+
+<h1>Welcome To The Content Ish Website</h1>
+<p>This is a trial Website work in progress website so jokes on you :)</p>
+
+<img src="picture.jpg" alt="first picture of the website" style="width:650px; height:500px">
+
+</body>
+</html>

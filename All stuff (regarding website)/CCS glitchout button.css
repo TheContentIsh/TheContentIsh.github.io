@@ -1,0 +1,33 @@
+.button {
+	float: left;
+	border: 1px solid #ffffff;
+	transition-duration: 0.4s;
+	width: 250px;
+	height: 30px;
+	text-align: center;
+	font-size: 150%
+}
+.button1 {
+	background-color: #fffff0;
+	color: #000080;
+	border: 2px solid #ffffff;
+	cursor: crosshair;
+}
+.button1:hover {
+	background-color: #000080;
+	color: #fffff0;
+}
+.button2 {
+	background-color: #000080;
+	color: #fffff0;
+	border: 2px solid #ffffff;
+	cursor: crosshair;
+}
+.button2:hover {
+	background-color: #fffff0;
+	color: #228b22;
+}
+.disable {
+	opacity: 0.6;
+	cursor: not-allowed;
+}
